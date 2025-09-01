@@ -1,6 +1,6 @@
-# Monorepo Maestro
+# Monorepo 
 
-Welcome to Monorepo Maestro, a Next.js 15 monorepo project built with Turborepo. This repository contains a suite of applications designed to work together seamlessly.
+Welcome to Monorepo, a Next.js 15 monorepo project built with Turborepo. This repository contains a suite of applications designed to work together seamlessly.
 
 ## What's inside?
 
@@ -75,7 +75,7 @@ npm run build
 ```
 
 
-**Monorepo Maestro** is a full-stack monorepo project designed to empower businesses and developers by providing a scalable, maintainable, and high-performance architecture. It combines multiple applications into a single repository, making collaboration and management seamless.  
+**Monorepo** is a full-stack monorepo project designed to empower businesses and developers by providing a scalable, maintainable, and high-performance architecture. It combines multiple applications into a single repository, making collaboration and management seamless.  
 
 The project includes applications such as a **public-facing website**, **CRM portal**, and **admin dashboard**, along with shared packages for **UI components**, **state management**, and **utilities**.  
 
@@ -84,11 +84,11 @@ The platform is built with a modern technology stack, including **Next.js 15**, 
 ---
 
 ### Copyright Notice
-**Monorepo Maestro**  
+**Monorepo**  
 
 Copyright © 2024 Manish Sonawane. All rights reserved.  
 
-This project, **Monorepo Maestro**, is a demonstration of a monorepo-based full-stack system. Unauthorized use, modification, or distribution of the software or its components is prohibited unless explicitly stated under the terms of the license.  
+This project, **Monorepo**, is a demonstration of a monorepo-based full-stack system. Unauthorized use, modification, or distribution of the software or its components is prohibited unless explicitly stated under the terms of the license.  
 
 By using or contributing to this project, you agree to comply with the terms and conditions defined in the license. You may use the software for personal or educational purposes, provided that proper credit is given to the original author.  
 
