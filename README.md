@@ -74,6 +74,8 @@ To build all applications for production, run:
 npm run build
 ```
 
+```
+
 **Monorepo Maestro** is a full-stack monorepo project designed to empower businesses and developers by providing a scalable, maintainable, and high-performance architecture. It combines multiple applications into a single repository, making collaboration and management seamless.  
 
 The project includes applications such as a **public-facing website**, **CRM portal**, and **admin dashboard**, along with shared packages for **UI components**, **state management**, and **utilities**.  
