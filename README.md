@@ -2,6 +2,8 @@
 
 Welcome to Monorepo, a Next.js 15 monorepo project built with Turborepo. This repository contains a suite of applications designed to work together seamlessly.
 
+![Monorepo](./Monorepo.png)
+
 ## What's inside?
 
 This Turborepo includes the following packages and applications:
