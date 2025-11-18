@@ -2,8 +2,6 @@
 
 **Monorepo** is a full-stack monorepo project designed to empower businesses and developers by providing a scalable, maintainable, and high-performance architecture. It combines multiple applications into a single repository, making collaboration and management seamless.  
 
----
-
 ![Monorepo](./Monorepo.png)
 
 ---
