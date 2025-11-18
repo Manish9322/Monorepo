@@ -3,8 +3,8 @@ import StoreProvider from '@repo/store/provider';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Monorepo Maestro - CRM',
-  description: 'CRM panel for Monorepo Maestro.',
+  title: 'Monorepo - CRM',
+  description: 'CRM panel for Monorepo.',
 };
 
 export default function RootLayout({

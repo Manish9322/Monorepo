@@ -1,7 +1,7 @@
-# **Project Name**: Monorepo Maestro
+# **Project Name**: Monorepo
 
 ## Project Overview:
-Monorepo Maestro is an integrated platform that leverages a monorepo architecture to streamline development workflows across multiple interconnected applications. This structure enables code sharing, consistent styling, and unified deployment processes while maintaining separation of concerns between the public-facing website, vendor CRM, and administrative dashboard.
+Monorepo is an integrated platform that leverages a monorepo architecture to streamline development workflows across multiple interconnected applications. This structure enables code sharing, consistent styling, and unified deployment processes while maintaining separation of concerns between the public-facing website, vendor CRM, and administrative dashboard.
 
 ## Core Features:
 

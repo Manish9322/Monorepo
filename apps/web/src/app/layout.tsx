@@ -3,8 +3,8 @@ import StoreProvider from '@repo/store/provider';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Monorepo Maestro - Web',
-  description: 'Public-facing website for Monorepo Maestro.',
+  title: 'Monorepo - Web',
+  description: 'Public-facing website for Monorepo.',
 };
 
 export default function RootLayout({
